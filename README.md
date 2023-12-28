@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=250&text=Mirae's%GitHub&fontColor=fffff0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=400&text=Hello,%20World!&fontColor=fffff0&desc=Mirae's%20GitHub)
 
 🌱Interest
 ---
-* cloud system
+* cloud computing
 * financial technology
 
 ✏️Tech Stack
