@@ -1,6 +1,7 @@
-## Hi there👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Mirae's%GitHub)
-### About.
+
+## About.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allllfo&layout=compact&theme=dark)](https://github.com/allllfo/github-readme-stats)
 
 
