@@ -1,11 +1,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=400&text=Hello,%20World!&fontColor=fffff0&desc=Mirae's%20GitHub)
 
+✨Introduction
+---
+> **Developer continues to grow**   
+>
+
+<!-- 뭐라 쓸 줄 모르겠어.. -->
+
 🌱Interest
 ---
 * cloud computing
 * financial technology
-
 
 ⚡️Stat
 ---
