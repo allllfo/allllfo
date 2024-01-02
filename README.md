@@ -8,6 +8,10 @@
 
 <!-- 뭐라 쓸 줄 모르겠어.. -->
 
+🔥Final Vocabulary
+---
+> **"Future"**
+
 🌱Interest
 ---
 * cloud computing
